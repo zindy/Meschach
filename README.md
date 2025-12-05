@@ -7,7 +7,7 @@ To compile : cmake . -DCOMPLEX_OPTION=YES -DSPARSE_OPTION=YES
 
 # PDF Manual available
 
-https://maths-proceedings.anu.edu.au/CMAProcVol32/CMAProcVol32-Complete.pdf
+https://maths.anu.edu.au/files/CMAProcVol32-Complete.pdf
 -------
 				     
 			     Meschach Library
@@ -459,6 +459,7 @@ Meschach and the like.  Finally our thanks go to all those that have had to
 struggle with compilers and other things to get Meschach to work.
 
 				     
+
 
 
 
